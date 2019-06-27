@@ -3,7 +3,7 @@ title: Mel Bee's Fitness Fundamentals
 subtitle: Become fit and toned at YOUR pace!
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Why follow Mel Bee?
+  heading: Who am I?
   text: >-
     Just you like you Melissa has fought the weight battle for many years and
     had a hard time getting real results with any of the diet or fitness "fads"
